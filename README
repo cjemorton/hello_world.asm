@@ -30,4 +30,4 @@ To run this code on FreeBSD 12.1
 --------------------------------------
 `pkg install nasm`
 
-`git clone git@github.com:clem16/hello_world.asm.git && cd hello_world.asm && make && ./hello`
+`git clone git@github.com:clem16/hello_world.asm.git && cd hello_world.asm && make && ./hello && make clean`
